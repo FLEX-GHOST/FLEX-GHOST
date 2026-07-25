@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://t.me/a22bq" target="_blank">
-    <img src="assets/badge_telegram.svg" height="42" alt="Cyber Telegram" />
+    <img src="assets/badge_telegram.svg" width="46" height="46" alt="Cyber Telegram" />
   </a>
 </p>
 
