@@ -1,16 +1,15 @@
 <div align="center">
 
-# Hi there, I'm Flex 👋
-
-### **Backend & Fleet Automation Engineer**
-
-*Building high-concurrency, low-latency microservices with Go & Python*
-
-<br/>
+<a href="https://github.com/FLEX-GHOST">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=90&lines=Hi+there%2C+I'm+Flex+%F0%9F%91%8B;Backend+%26+Fleet+Automation+Engineer;High-Performance+Go+%26+Python+Architecture" alt="Flex Typing SVG" />
+</a>
 
 <p align="center">
   <a href="https://t.me/FLEX_GHOST" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/a22bq" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/FLEX-GHOST" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -48,7 +47,7 @@ I specialize in **distributed backend architecture**, high-scale Telegram bot fl
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FLEX-GHOST&theme=github-dark&height=300&point=38bdf8&line=38bdf8&area_color=0f172a&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FLEX-GHOST&theme=github-dark&height=300&point=38bdf8&line=38bdf8&area_color=0f172a&area=true&hide_border=true&custom_title=Activity%20Timeline%20%E2%9A%A1&radius=8" width="100%" alt="Activity Graph" />
 
 </div>
 
