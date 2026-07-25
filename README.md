@@ -38,19 +38,11 @@ My focus is native performance optimization, O(1) hot paths, SQLite FTS5 search 
 
 <h2 align="center"><b>🛠️ Languages & Tools I Use 🛠️</b></h2>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,lua,fastapi,sqlite,linux,git,docker,bash" />
+  </a>
+</p>
 
 <br/>
 
