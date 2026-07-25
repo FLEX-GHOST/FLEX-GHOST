@@ -14,7 +14,7 @@
 
 Currently building and operating Telegram bot fleets running under high concurrency, zero event-loop stalls, and optimized memory footprints. 🫨
 
-🔭 Tech Stack: Golang (gogram, modernc-sqlite, yaegi), Python (Telethon, py-tgcalls/ntgcalls, uvloop, FastAPI), Lua, C++, FFmpeg, SQLite/FTS5
+🔭 Tech Stack: Golang (gogram, modernc-sqlite), Python (Telethon, py-tgcalls/ntgcalls, uvloop, FastAPI), Lua, Linux System Engineering, SQLite/FTS5, Docker, CI/CD
 </b></p>
 
 <br>
@@ -23,7 +23,7 @@ Currently building and operating Telegram bot fleets running under high concurre
 
 <p><b>I engineer production bot fleets (Telethon, py-tgcalls, gogram, LuaGuard) designed to stay up 24/7 under flood, Bad Networks, and heavy concurrent voice/media calls with zero quiet memory leaks.
 
-My focus is native library optimization, O(1) hot paths, SQLite FTS5 search engines, and raw FFmpeg media streaming pipelines.
+My focus is native library optimization, O(1) hot paths, SQLite FTS5 search engines, and media streaming pipelines.
 </b></p>
 
 <br/>
@@ -36,22 +36,13 @@ My focus is native library optimization, O(1) hot paths, SQLite FTS5 search engi
 
 <br/>
 
-<h2 align="center"><b>🛠️ Fleet Languages & Technologies I Use 🛠️</b></h2>
+<h2 align="center"><b>🛠️ Languages & Tools I Use 🛠️</b></h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,lua,cpp,c,fastapi,sqlite,linux,git,docker,bash&perline=6" />
+    <img src="https://skillicons.dev/icons?i=go,py,lua,fastapi,sqlite,linux,git,docker,bash&perline=5" />
   </a>
 </p>
-
-<div align="center">
-
-![Telegram MTProto](https://img.shields.io/badge/Telegram-MTProto-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-Media_Streaming-007800?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![SQLite FTS5](https://img.shields.io/badge/SQLite-FTS5_Search-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![py-tgcalls / ntgcalls](https://img.shields.io/badge/py--tgcalls-Voice_Calls-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
-
-</div>
 
 <br/>
 
