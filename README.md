@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=1400&height=130&duration=5000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Flex;Backend+%26+Automation+Engineer;Building+High-Performance+Fleet+Bots"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=1400&height=130&duration=5000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Flex;Telegram+Fleet+Bot+Engineer;Go+%26+Python+High-Performance+Architecture"></h1>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FLEX-GHOST&theme=github-compact&height=400&point=3461eb&line=6aa66a&area_color=3e3e40&area=true&hide_border=true&custom_title=My%20This%20Month%27s%20Activity%20Graph%20%F0%9F%98%89&radius=4" alt="GitHub Activity Graph" width="100%">
@@ -10,20 +10,20 @@
 
 <br/>
 
-<p><b>I'm a Backend & Automation Engineer, passionate about creating high-performance, resilient softwares with expertise in asynchronous architecture and distributed systems. I love building scalable Telegram bot fleets and optimizing low-latency backend engines.
+<p><b>I'm a Fleet Bot Engineer & High-Performance Backend Developer, specializing in Telegram MTProto bots, voice/media streaming engines, and low-latency distributed microservices.
 
-Currently intrigued by high-concurrency systems, C++ Telegram engines, and Go microservices. 🫨
+Currently building and operating Telegram bot fleets running under high concurrency, zero event-loop stalls, and optimized memory footprints. 🫨
 
-🔭 I'm currently working on Golang, Python, C++, Linux System Engineering, SQLite/FTS5, Docker, CI/CD, Web APIs
+🔭 Tech Stack: Golang (gogram, modernc-sqlite, yaegi), Python (Telethon, py-tgcalls/ntgcalls, uvloop, FastAPI), Lua, C++, FFmpeg, SQLite/FTS5
 </b></p>
 
 <br>
 
 <h2><b>About Me</b></h2>
 
-<p><b>I am a Backend developer focused on building robust code with zero event-loop stalls and zero memory leaks. My goal with coding is to create high-scale automated services that handle thousands of concurrent users smoothly.
+<p><b>I engineer production bot fleets (Telethon, py-tgcalls, gogram, LuaGuard) designed to stay up 24/7 under flood, Bad Networks, and heavy concurrent voice/media calls with zero quiet memory leaks.
 
-Over the last few years, my experience with Golang, Python, and C++ has expanded across high-concurrency bot fleets and backend automation services.
+My focus is native library optimization, O(1) hot paths, SQLite FTS5 search engines, and raw FFmpeg media streaming pipelines.
 </b></p>
 
 <br/>
@@ -36,13 +36,22 @@ Over the last few years, my experience with Golang, Python, and C++ has expanded
 
 <br/>
 
-<h2 align="center"><b>🛠️ Languages-Frameworks-Tools I've used 🛠️</b></h2>
+<h2 align="center"><b>🛠️ Fleet Languages & Technologies I Use 🛠️</b></h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,cpp,c,ts,js,linux,sqlite,docker,git,fastapi,react,redis,postgres,nginx,bash&perline=8" />
+    <img src="https://skillicons.dev/icons?i=go,py,lua,cpp,c,fastapi,sqlite,linux,git,docker,bash&perline=6" />
   </a>
 </p>
+
+<div align="center">
+
+![Telegram MTProto](https://img.shields.io/badge/Telegram-MTProto-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-Media_Streaming-007800?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![SQLite FTS5](https://img.shields.io/badge/SQLite-FTS5_Search-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![py-tgcalls / ntgcalls](https://img.shields.io/badge/py--tgcalls-Voice_Calls-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+
+</div>
 
 <br/>
 
