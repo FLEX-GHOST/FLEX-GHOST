@@ -14,7 +14,7 @@
 
 Currently building and operating high-scale backend services running under high concurrency, zero event-loop stalls, and optimized memory footprints. 🫨
 
-🔭 Tech Stack: Golang, Python, Lua, Linux System Engineering, SQLite/FTS5, FastAPI, CI/CD
+🔭 Tech Stack: Golang, Python, Lua, Linux System Engineering, SQLite/FTS5, MongoDB, FastAPI, CI/CD
 </b></p>
 
 <br>
@@ -36,11 +36,11 @@ My focus is native performance optimization, O(1) hot paths, SQLite FTS5 search 
 
 <br/>
 
-<h2 align="center"><b>🛠️ Languages & Tools I Use 🛠️</b></h2>
+<h2 align="center"><b>🛠️ Fleet Languages & Tools I Use 🛠️</b></h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,lua,fastapi,sqlite,linux,git,bash" />
+    <img src="https://skillicons.dev/icons?i=go,py,lua,fastapi,sqlite,mongodb,linux,git,bash" />
   </a>
 </p>
 
