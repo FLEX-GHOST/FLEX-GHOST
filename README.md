@@ -1,72 +1,97 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
+<!-- Animated Header -->
 <a href="https://github.com/FLEX-GHOST">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=100&lines=Hello+World!+%F0%9F%91%8B+I'm+Flex;Fleet+Bot+%26+Distributed+Systems+Engineer;High-Scale+Go+%26+Python+Architecture;Zero+Event-Loop+Stalls+%E2%9A%A1" alt="Flex Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=1000&height=100&lines=%E2%9A%A1+Hello+World!+I'm+Flex+%F0%9F%91%8B;Telegram+Fleet+Bot+Engineer;High-Performance+Go+%26+Python+Systems;Zero+Event-Loop+Stalls+%E2%9C%A8" alt="Flex Header" />
 </a>
 
+<!-- Shields Capsules -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building_High--Scale_Fleet_Bots-007ACC?style=for-the-badge&logo=telegram&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Architecture-High_Concurrency-8B5CF6?style=for-the-badge&logo=go&logoColor=white" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Location-Baghdad-10B981?style=for-the-badge&logo=linux&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Fleet_Engineer-Go_%26_Python-4F46E5?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-High_Concurrency-06B6D4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Operating_24%2F7_Fleets-10B981?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-### ⚡ About Me
+### 🏆 GitHub Achievements & Trophies
 
 <div align="center">
 
-> *"Building high-scale automated services designed to handle thousands of concurrent users with zero quiet memory leaks."*
-
-</div>
-
-- 🚀 **Core Specialty:** Telegram MTProto Fleets, Voice/Media Streaming Engines, and Asynchronous Microservices.
-- 🛠️ **Engineering Focus:** Native Performance Optimization, O(1) Hot Paths, SQLite FTS5 Search Engines, and Async Pipelines.
-- ⚡ **Tech Philosophy:** Short clean code, zero event-loop stalls, bounded memory, and 24/7 resilience under flood.
-
----
-
-### 🛠️ Languages & Tools Matrix
-
-<div align="center">
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,lua,fastapi,sqlite,mongodb,linux,git,bash&perline=9" alt="Flex Tech Stack" />
-  </a>
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=FLEX-GHOST&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" alt="GitHub Profile Trophies" />
+</a>
 
 </div>
 
 ---
 
-### 📊 Performance & Contributions Metrics
+### 💻 Developer Terminal Profile
+
+```bash
+⚡ flex --info
+├── 👤 Name       : Flex
+├── 🎯 Specialty  : High-Scale MTProto Bot Fleets & Distributed Microservices
+├── ⚡ Focus     : Native Performance Optimization, O(1) Hot Paths, SQLite FTS5
+├── 🌐 Languages  : Golang, Python, Lua, C++, Bash
+├── 🗄️ Databases  : SQLite (FTS5), MongoDB
+└── 🛡️ Systems    : Linux, Docker, FastAPI, Asyncio, Git
+```
+
+---
+
+### 🛠️ Languages & Tools Ecosystem
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=go,py,lua,fastapi,sqlite,mongodb,linux,git,bash&perline=9" alt="Flex Tech Stack" />
+</a>
+
+</div>
+
+---
+
+### 📊 Real-Time Analytics & Performance
 
 <div align="center">
 
 <table border="0">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FLEX-GHOST&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak Stats" />
-    </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=FLEX-GHOST&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLEX-GHOST&layout=compact&theme=tokyonight&border_radius=10&hide=html,css,javascript" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FLEX-GHOST&theme=react-dark&height=320&point=38bdf8&line=38bdf8&area_color=0f172a&area=true&hide_border=true&custom_title=Activity%20Timeline%20%E2%9A%A1&radius=8" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FLEX-GHOST&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FLEX-GHOST&theme=react-dark&height=320&point=00f2fe&line=00f2fe&area_color=0f172a&area=true&hide_border=true&custom_title=Activity%20Timeline%20%E2%9A%A1&radius=8" width="100%" alt="Activity Graph" />
 
 </div>
 
 ---
 
-### 📬 Connect & Reach Out
+### 💬 Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quote" />
+
+</div>
+
+---
+
+### 📬 Connect & Profile Views
 
 <div align="center">
 
@@ -79,7 +104,7 @@
 
 <br/><br/>
 
-### 👁️ Profile Visits
+### 👁️ Visitor Count
 
 ![Moe Counter](https://count.getloli.com/get/@FLEX-GHOST?theme=rule34)
 
