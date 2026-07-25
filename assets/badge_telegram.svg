@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="42" viewBox="0 0 220 42">
+  <rect width="220" height="42" rx="8" fill="#0f172a" stroke="#00f2fe" stroke-width="2"/>
+  <path d="M22 21 L32 15 L26 27 L22 21 Z M22 21 L28 22" fill="none" stroke="#00f2fe" stroke-width="2" stroke-linejoin="round"/>
+  <text x="44" y="26" font-family="'Fira Code', monospace" font-size="13" font-weight="bold" fill="#00f2fe">🏴‍☠️ PIRATE FLEET</text>
+</svg>
