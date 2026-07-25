@@ -5,18 +5,14 @@
 </a>
 
 <a href="https://github.com/FLEX-GHOST">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=1000&height=90&lines=Hi+there%2C+I'm+Flex+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Cyber+Hacker+%26+Systems+Engineer;High-Scale+MTProto+Fleets+%26+Async+Go" alt="Flex Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=1000&height=90&lines=Hi+there%2C+I'm+Flex;Backend+%26+Fleet+Automation+Engineer;High-Performance+Go+%26+Python+Architecture" alt="Flex Typing SVG" />
 </a>
 
 <br/>
 
 <p align="center">
   <a href="https://t.me/a22bq" target="_blank">
-    <img src="assets/badge_telegram.svg" height="38" alt="Pirate Telegram Fleet" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/FLEX-GHOST" target="_blank">
-    <img src="assets/badge_github.svg" height="38" alt="Cyber Ghost GitHub" />
+    <img src="assets/badge_telegram.svg" height="42" alt="Cyber Telegram" />
   </a>
 </p>
 
