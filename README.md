@@ -1,14 +1,16 @@
 <div align="center">
 
 <a href="https://github.com/FLEX-GHOST">
-  <img src="assets/pirate_skull.svg" width="80" height="80" alt="Pirate Skull" />
+  <img src="assets/cyber_ghost.svg" width="90" height="90" alt="Cyber Ghost" />
 </a>
+
+<br/><br/>
 
 <a href="https://github.com/FLEX-GHOST">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=1000&height=90&lines=Hi+there%2C+I'm+Flex;Backend+%26+Fleet+Automation+Engineer;High-Performance+Go+%26+Python+Architecture" alt="Flex Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=1000&height=70&lines=Hi+there%2C+I'm+Flex" alt="Flex Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <p align="center">
   <a href="https://t.me/a22bq" target="_blank">
