@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=1400&height=130&duration=5000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Flex;Backend+%26+Automation+Engineer;Go+%26+Python+High-Performance+Architecture"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=1400&height=130&duration=5000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Flex;Telegram+Fleet+Bot+Engineer;Go+%26+Python+High-Performance+Architecture"></h1>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FLEX-GHOST&theme=github-compact&height=400&point=3461eb&line=6aa66a&area_color=3e3e40&area=true&hide_border=true&custom_title=My%20This%20Month%27s%20Activity%20Graph%20%F0%9F%98%89&radius=4" alt="GitHub Activity Graph" width="100%">
@@ -14,7 +14,7 @@
 
 Currently building and operating high-scale backend services running under high concurrency, zero event-loop stalls, and optimized memory footprints. 🫨
 
-🔭 Tech Stack: Golang, Python, Lua, Linux System Engineering, SQLite/FTS5, Docker, FastAPI, CI/CD
+🔭 Tech Stack: Golang, Python, Lua, Linux System Engineering, SQLite/FTS5, FastAPI, CI/CD
 </b></p>
 
 <br>
@@ -40,7 +40,7 @@ My focus is native performance optimization, O(1) hot paths, SQLite FTS5 search 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,lua,fastapi,sqlite,linux,git,docker,bash" />
+    <img src="https://skillicons.dev/icons?i=go,py,lua,fastapi,sqlite,linux,git,bash" />
   </a>
 </p>
 
