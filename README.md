@@ -5,11 +5,8 @@
 </a>
 
 <p align="center">
-  <a href="https://t.me/FLEX_GHOST" target="_blank">
+  <a href="https://t.me/a22bq" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://instagram.com/a22bq" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/FLEX-GHOST" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
