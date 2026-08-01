@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/FLEX-GHOST">
-  <img src="assets/cyber_ghost.png" width="90" height="90" alt="Cyber Ghost" />
+  <img src="assets/cyber_ghost.svg" width="90" height="90" alt="Cyber Ghost" />
 </a>
 
 <br/><br/>
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://t.me/a22bq" target="_blank">
-    <img src="assets/badge_telegram.png" width="60" height="60" alt="Cyber Telegram" />
+    <img src="assets/badge_telegram.svg" width="60" height="60" alt="Cyber Telegram" />
   </a>
 </p>
 
@@ -22,18 +22,18 @@
 
 ---
 
-### <img src="assets/icon_zap.png" width="26" height="26" align="center" /> About Me
+### <img src="assets/icon_zap.svg" width="36" height="36" align="center" /> About Me
 
 I specialize in **distributed backend architecture**, high-scale Telegram bot fleets, and real-time streaming pipelines.
 
-- <img src="assets/icon_code.png" width="22" height="22" align="center" /> **Languages:** Golang, Python, Lua, Bash
-- <img src="assets/icon_db.png" width="22" height="22" align="center" /> **Databases:** SQLite (FTS5 Search), MongoDB
-- <img src="assets/icon_gear.png" width="22" height="22" align="center" /> **Systems & Web:** Linux System Engineering, FastAPI, Git
-- <img src="assets/icon_target.png" width="22" height="22" align="center" /> **Focus:** Zero event-loop stalls, O(1) hot paths, and 24/7 resilience under heavy traffic.
+- <img src="assets/icon_code.svg" width="32" height="32" align="center" /> **Languages:** Golang, Python, Lua, Bash
+- <img src="assets/icon_db.svg" width="32" height="32" align="center" /> **Databases:** SQLite (FTS5 Search), MongoDB
+- <img src="assets/icon_gear.svg" width="32" height="32" align="center" /> **Systems & Web:** Linux System Engineering, FastAPI, Git
+- <img src="assets/icon_target.svg" width="32" height="32" align="center" /> **Focus:** Zero event-loop stalls, O(1) hot paths, and 24/7 resilience under heavy traffic.
 
 ---
 
-### <img src="assets/icon_stack.png" width="26" height="26" align="center" /> Core Tech Stack
+### <img src="assets/icon_stack.svg" width="36" height="36" align="center" /> Core Tech Stack
 
 <div align="center">
 
@@ -45,7 +45,7 @@ I specialize in **distributed backend architecture**, high-scale Telegram bot fl
 
 ---
 
-### <img src="assets/icon_graph.png" width="26" height="26" align="center" /> Activity Timeline
+### <img src="assets/icon_graph.svg" width="36" height="36" align="center" /> Activity Timeline
 
 <div align="center">
 
@@ -57,7 +57,7 @@ I specialize in **distributed backend architecture**, high-scale Telegram bot fl
 
 <div align="center">
 
-### <img src="assets/icon_eye.png" width="24" height="24" align="center" /> Visitor Count
+### <img src="assets/icon_eye.svg" width="34" height="34" align="center" /> Visitor Count
 
 ![Moe Counter](https://count.getloli.com/get/@FLEX-GHOST?theme=rule34)
 
