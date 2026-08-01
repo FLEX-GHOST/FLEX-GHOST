@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://t.me/a22bq" target="_blank">
-    <img src="assets/badge_telegram.svg" width="60" height="60" alt="Cyber Telegram" />
+    <img src="assets/badge_telegram.svg" width="56" height="56" alt="Cyber Telegram" />
   </a>
 </p>
 
@@ -22,18 +22,18 @@
 
 ---
 
-### <img src="assets/icon_zap.svg" width="36" height="36" align="center" /> About Me
+### <img src="assets/icon_zap.svg" width="28" height="28" align="absmiddle" /> About Me
 
 I specialize in **distributed backend architecture**, high-scale Telegram bot fleets, and real-time streaming pipelines.
 
-- <img src="assets/icon_code.svg" width="32" height="32" align="center" /> **Languages:** Golang, Python, Lua, Bash
-- <img src="assets/icon_db.svg" width="32" height="32" align="center" /> **Databases:** SQLite (FTS5 Search), MongoDB
-- <img src="assets/icon_gear.svg" width="32" height="32" align="center" /> **Systems & Web:** Linux System Engineering, FastAPI, Git
-- <img src="assets/icon_target.svg" width="32" height="32" align="center" /> **Focus:** Zero event-loop stalls, O(1) hot paths, and 24/7 resilience under heavy traffic.
+- <img src="assets/icon_code.svg" width="20" height="20" align="absmiddle" /> **Languages:** Golang, Python, Lua, Bash
+- <img src="assets/icon_db.svg" width="20" height="20" align="absmiddle" /> **Databases:** SQLite (FTS5 Search), MongoDB
+- <img src="assets/icon_gear.svg" width="20" height="20" align="absmiddle" /> **Systems & Web:** Linux System Engineering, FastAPI, Git
+- <img src="assets/icon_target.svg" width="20" height="20" align="absmiddle" /> **Focus:** Zero event-loop stalls, O(1) hot paths, and 24/7 resilience under heavy traffic.
 
 ---
 
-### <img src="assets/icon_stack.svg" width="36" height="36" align="center" /> Core Tech Stack
+### <img src="assets/icon_stack.svg" width="28" height="28" align="absmiddle" /> Core Tech Stack
 
 <div align="center">
 
@@ -45,7 +45,7 @@ I specialize in **distributed backend architecture**, high-scale Telegram bot fl
 
 ---
 
-### <img src="assets/icon_graph.svg" width="36" height="36" align="center" /> Activity Timeline
+### <img src="assets/icon_graph.svg" width="28" height="28" align="absmiddle" /> Activity Timeline
 
 <div align="center">
 
@@ -57,7 +57,7 @@ I specialize in **distributed backend architecture**, high-scale Telegram bot fl
 
 <div align="center">
 
-### <img src="assets/icon_eye.svg" width="34" height="34" align="center" /> Visitor Count
+### <img src="assets/icon_eye.svg" width="26" height="26" align="absmiddle" /> Visitor Count
 
 ![Moe Counter](https://count.getloli.com/get/@FLEX-GHOST?theme=rule34)
 
