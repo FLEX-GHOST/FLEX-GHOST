@@ -66,16 +66,18 @@ I specialize in **high-performance distributed architecture**, ultra-fast Telegr
 ### <img src="assets/icon_eye.svg" width="28" height="28" align="absmiddle" /> Visitor Count
 
 <p align="center">
-  <img src="assets/rick_morty_digits/0.png" width="115" alt="0" />
-  <img src="assets/rick_morty_digits/1.png" width="115" alt="1" />
-  <img src="assets/rick_morty_digits/2.png" width="115" alt="2" />
-  <img src="assets/rick_morty_digits/3.png" width="115" alt="3" />
-  <img src="assets/rick_morty_digits/4.png" width="115" alt="4" />
-  <img src="assets/rick_morty_digits/5.png" width="115" alt="5" />
-  <img src="assets/rick_morty_digits/6.png" width="115" alt="6" />
-  <img src="assets/rick_morty_digits/7.png" width="115" alt="7" />
-  <img src="assets/rick_morty_digits/8.png" width="115" alt="8" />
-  <img src="assets/rick_morty_digits/9.png" width="115" alt="9" />
+  <img src="assets/rick_morty_digits/0.png?v=3" width="90" height="196" alt="0" />
+  <img src="assets/rick_morty_digits/1.png?v=3" width="90" height="196" alt="1" />
+  <img src="assets/rick_morty_digits/2.png?v=3" width="90" height="196" alt="2" />
+  <img src="assets/rick_morty_digits/3.png?v=3" width="90" height="196" alt="3" />
+  <img src="assets/rick_morty_digits/4.png?v=3" width="90" height="196" alt="4" />
+</p>
+<p align="center">
+  <img src="assets/rick_morty_digits/5.png?v=3" width="90" height="196" alt="5" />
+  <img src="assets/rick_morty_digits/6.png?v=3" width="90" height="196" alt="6" />
+  <img src="assets/rick_morty_digits/7.png?v=3" width="90" height="196" alt="7" />
+  <img src="assets/rick_morty_digits/8.png?v=3" width="90" height="196" alt="8" />
+  <img src="assets/rick_morty_digits/9.png?v=3" width="90" height="196" alt="9" />
 </p>
 
 <br/>
