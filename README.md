@@ -51,11 +51,16 @@ I specialize in **high-performance distributed architecture**, ultra-fast Telegr
 
 ---
 
-### <img src="assets/icon_graph.svg" width="30" height="30" align="absmiddle" /> Activity Timeline
+### <img src="assets/icon_graph.svg" width="30" height="30" align="absmiddle" /> GitHub Statistics & Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FLEX-GHOST&theme=github-dark&height=300&point=00f2fe&line=00f2fe&area_color=0f172a&area=true&hide_border=true&custom_title=Activity%20Timeline%20%E2%9A%A1&radius=8" width="100%" alt="Activity Graph" />
+<a href="https://github.com/FLEX-GHOST">
+  <img src="https://github-readme-stats.vercel.app/api?username=FLEX-GHOST&show_icons=true&theme=dark&bg_color=0f172a&title_color=00f2fe&text_color=94a3b8&icon_color=00f2fe&border_color=1e293b" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/FLEX-GHOST">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FLEX-GHOST&theme=dark&background=0F172A&stroke=1E293B&sideLabels=94A3B8&dates=64748B&ring=00F2FE&fire=00F2FE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=00F2FE" alt="Streak Stats" />
+</a>
 
 </div>
 
@@ -65,6 +70,8 @@ I specialize in **high-performance distributed architecture**, ultra-fast Telegr
 
 ### <img src="assets/icon_eye.svg" width="28" height="28" align="absmiddle" /> Visitor Count
 
-![Moe Counter](https://count.getloli.com/get/@FLEX-GHOST?theme=rule34)
+<a href="https://github.com/FLEX-GHOST">
+  <img src="https://komarev.com/ghpvc/?username=FLEX-GHOST&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</a>
 
 </div>
