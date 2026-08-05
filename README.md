@@ -65,25 +65,6 @@ I specialize in **high-performance distributed architecture**, ultra-fast Telegr
 
 ### <img src="assets/icon_eye.svg" width="28" height="28" align="absmiddle" /> Visitor Count
 
-<p align="center">
-  <img src="assets/rick_morty_digits/0.png?v=3" width="90" height="196" alt="0" />
-  <img src="assets/rick_morty_digits/1.png?v=3" width="90" height="196" alt="1" />
-  <img src="assets/rick_morty_digits/2.png?v=3" width="90" height="196" alt="2" />
-  <img src="assets/rick_morty_digits/3.png?v=3" width="90" height="196" alt="3" />
-  <img src="assets/rick_morty_digits/4.png?v=3" width="90" height="196" alt="4" />
-</p>
-<p align="center">
-  <img src="assets/rick_morty_digits/5.png?v=3" width="90" height="196" alt="5" />
-  <img src="assets/rick_morty_digits/6.png?v=3" width="90" height="196" alt="6" />
-  <img src="assets/rick_morty_digits/7.png?v=3" width="90" height="196" alt="7" />
-  <img src="assets/rick_morty_digits/8.png?v=3" width="90" height="196" alt="8" />
-  <img src="assets/rick_morty_digits/9.png?v=3" width="90" height="196" alt="9" />
-</p>
-
-<br/>
-
-<a href="https://github.com/FLEX-GHOST">
-  <img src="https://hits.sh/github.com/FLEX-GHOST.svg?style=for-the-badge&label=LIVE+PROFILE+VIEWS&color=00f2fe&labelColor=0f172a" alt="Live Profile Views" />
-</a>
+<img src="https://count.getloli.com/get/@FLEX-GHOST?theme=asoul" alt="Visitor Count" />
 
 </div>
