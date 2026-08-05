@@ -65,8 +65,6 @@ I specialize in **high-performance distributed architecture**, ultra-fast Telegr
 
 ### <img src="assets/icon_eye.svg" width="28" height="28" align="absmiddle" /> Visitor Count
 
-<a href="https://github.com/FLEX-GHOST">
-  <img src="https://hits.sh/github.com/FLEX-GHOST.svg?style=for-the-badge&label=PROFILE+VIEWS&color=00f2fe&labelColor=0f172a" alt="Profile Views" />
-</a>
+<img src="https://count.getloli.com/get/@FLEX-GHOST?theme=asoul" alt="Visitor Count" />
 
 </div>
