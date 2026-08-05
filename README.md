@@ -24,7 +24,7 @@
 
 ### <img src="assets/icon_zap.svg" width="30" height="30" align="absmiddle" /> About Me
 
-I specialize in **distributed backend architecture**, high-scale Telegram bot fleets, and real-time streaming pipelines.
+I specialize in **high-performance distributed architecture**, ultra-fast Telegram MTProto systems, and real-time data pipelines.
 
 - <img src="assets/icon_code.svg" width="22" height="22" align="absmiddle" /> **Languages:** Rust, Golang, Python, Lua, Bash
 - <img src="assets/icon_db.svg" width="22" height="22" align="absmiddle" /> **Databases:** SQLite (FTS5 Search)
