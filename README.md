@@ -65,6 +65,16 @@ I specialize in **high-performance distributed architecture**, ultra-fast Telegr
 
 ### <img src="assets/icon_eye.svg" width="28" height="28" align="absmiddle" /> Visitor Count
 
-<img src="https://count.getloli.com/get/@FLEX-GHOST?theme=asoul" alt="Visitor Count" />
+<p align="center">
+  <img src="assets/rick_morty_digits/0.png" width="70" alt="0" />
+  <img src="assets/rick_morty_digits/1.png" width="70" alt="1" />
+  <img src="assets/rick_morty_digits/3.png" width="70" alt="3" />
+  <img src="assets/rick_morty_digits/6.png" width="70" alt="6" />
+  <img src="assets/rick_morty_digits/9.png" width="70" alt="9" />
+</p>
+
+<a href="https://github.com/FLEX-GHOST">
+  <img src="https://hits.sh/github.com/FLEX-GHOST.svg?style=for-the-badge&label=PROFILE+VIEWS&color=00f2fe&labelColor=0f172a" alt="Profile Views" />
+</a>
 
 </div>
