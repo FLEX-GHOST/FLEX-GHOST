@@ -27,7 +27,7 @@
 I specialize in **distributed backend architecture**, high-scale Telegram bot fleets, and real-time streaming pipelines.
 
 - <img src="assets/icon_code.svg" width="22" height="22" align="absmiddle" /> **Languages:** Rust, Golang, Python, Lua, Bash
-- <img src="assets/icon_db.svg" width="22" height="22" align="absmiddle" /> **Databases:** SQLite (FTS5 Search), MongoDB
+- <img src="assets/icon_db.svg" width="22" height="22" align="absmiddle" /> **Databases:** SQLite (FTS5 Search)
 - <img src="assets/icon_gear.svg" width="22" height="22" align="absmiddle" /> **Systems & Web:** Linux System Engineering, Tokio / Grammers (Rust), FastAPI, Git
 - <img src="assets/icon_target.svg" width="22" height="22" align="absmiddle" /> **Focus:** Zero event-loop stalls, O(1) hot paths, and 24/7 resilience under heavy traffic.
 
@@ -37,9 +37,15 @@ I specialize in **distributed backend architecture**, high-scale Telegram bot fl
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,go,py,lua,fastapi,sqlite,mongodb,linux,git,bash&perline=10" alt="Tech Stack" />
-</a>
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
+<a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Golang" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+<a href="https://www.lua.org/" target="_blank"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
+<a href="https://www.kernel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
 
 </div>
 
