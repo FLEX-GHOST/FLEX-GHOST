@@ -26,9 +26,9 @@
 
 I specialize in **distributed backend architecture**, high-scale Telegram bot fleets, and real-time streaming pipelines.
 
-- <img src="assets/icon_code.svg" width="22" height="22" align="absmiddle" /> **Languages:** Golang, Python, Lua, Bash
+- <img src="assets/icon_code.svg" width="22" height="22" align="absmiddle" /> **Languages:** Rust, Golang, Python, Lua, Bash
 - <img src="assets/icon_db.svg" width="22" height="22" align="absmiddle" /> **Databases:** SQLite (FTS5 Search), MongoDB
-- <img src="assets/icon_gear.svg" width="22" height="22" align="absmiddle" /> **Systems & Web:** Linux System Engineering, FastAPI, Git
+- <img src="assets/icon_gear.svg" width="22" height="22" align="absmiddle" /> **Systems & Web:** Linux System Engineering, Tokio / Grammers (Rust), FastAPI, Git
 - <img src="assets/icon_target.svg" width="22" height="22" align="absmiddle" /> **Focus:** Zero event-loop stalls, O(1) hot paths, and 24/7 resilience under heavy traffic.
 
 ---
@@ -38,7 +38,7 @@ I specialize in **distributed backend architecture**, high-scale Telegram bot fl
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,py,lua,fastapi,sqlite,mongodb,linux,git,bash&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=rust,go,py,lua,fastapi,sqlite,mongodb,linux,git,bash&perline=10" alt="Tech Stack" />
 </a>
 
 </div>
